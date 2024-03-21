@@ -5,7 +5,7 @@
   2. [HerokuAccount](https://heroku.com)
   3. [VSCodeIDE](https://code.visualstudio.com/)
   4. [GitCLI](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)
-  5. [checkingoutput](http://127.0.0.1:5000)
+
   Create a new environment
 
   ...
